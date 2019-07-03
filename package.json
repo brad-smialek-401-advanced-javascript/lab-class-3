@@ -1,0 +1,31 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "class 3",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/.js",
+    "test": "jest --coverage --verbose",
+    "test-watch": "jest --watchAll --coverage --verbose",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "author": "Brad Smialek",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^23.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brad-smialek-401-advanced-javascript/lab-class-3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brad-smialek-401-advanced-javascript/lab-class-3/issues"
+  },
+  "homepage": "https://github.com/brad-smialek-401-advanced-javascript/lab-class-3#readme"
+}
