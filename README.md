@@ -1,6 +1,6 @@
  # LAB - Class 3
 
-## Project Name - Class 3
+## Project Name - Async
 
 ### Author: Brad Smialek
 
