@@ -15,10 +15,10 @@
   },
   "author": "Brad Smialek",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {
-    "eslint": "^5.16.0",
-    "jest": "^23.6.0"
+  "dependencies": {
+    "eslint": "^6.0.1",
+    "faker": "^4.1.0",
+    "jest": "^24.8.0"
   },
   "repository": {
     "type": "git",
