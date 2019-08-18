@@ -30,3 +30,7 @@ describe('File Reader Module', () => {
   });
 
 });
+
+// HINT: Use util.promisify() to make fs.readFile work like a promise ...
+// Do you need to nest?
+// You'll need to change the tests to work with promises instead of callbacks.
